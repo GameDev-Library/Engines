@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+
+    "markdown.occurrencesHighlight.enabled": true,
+    "markdown.extension.tableFormatter.normalizeIndentation": true,
+
+    "markdownlint.run": "onType",
+
+    "cSpell.autoFormatConfigFile": true,
+    "cSpell.showAutocompleteSuggestions": true,
+    "cSpell.checkOnlyEnabledFileTypes": true,
+    "cSpell.spellCheckOnlyWorkspaceFiles": true,
+}
